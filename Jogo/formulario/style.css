@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
+
+body {
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding-top: 30px;
+
+    background-image: url('https://media.licdn.com/dms/image/D4E12AQFG8z0rJ8QIFA/article-cover_image-shrink_720_1280/0/1684026178500?e=2147483647&v=beta&t=NokuPaJTQMqf0_ULZ7FOsIqH_bdAWhVwNjh2MN4AXnQ');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+
+h1 {
+    text-align: center;
+    font-family: "Lexend Deca", sans-serif;
+    margin-bottom: 50px;
+}
+
+h3 {
+    font-family: "Chocolate Classical Sans", sans-serif;
+            font-weight: 400;
+            margin-top: 30px;
+            margin-left: 45px;
+}
+
+input[type="text"] {
+    margin: auto;
+    display: block;
+    width: calc(84%);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+img {
+        margin: auto;
+        display: block;
+}
+
+
+button {
+    margin: auto;
+    display: block;
+    width: 87%;
+    padding: 10px;
+    background-color: #e75bbd;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    
+}
+
+
+div {
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 700px; 
+    margin-bottom: 20px;
+    margin-top: 40px;
+    
+}
+
